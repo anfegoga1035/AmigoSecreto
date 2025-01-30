@@ -1,0 +1,1 @@
+¡Bienvenido al proyecto Amigo Secreto! Esta es una aplicación web simple que te permite organizar un sorteo de amigos secretos. Puedes agregar nombres de tus amigos, ver la lista de participantes y sortear un amigo secreto al aza
